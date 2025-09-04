@@ -3,3 +3,8 @@ A curated list of foundation models in the medical domain, including large pretr
 
 # Cool Segmentation Papers
 Chen, L. C., Zhu, Y., Papandreou, G., Schroff, F., & Adam, H. (2018). Encoder-decoder with atrous separable convolution for semantic image segmentation. In Proceedings of the European conference on computer vision (ECCV) (pp. 801-818).
+
+
+# Cool Pretrained Models
+
+MED3D: TRANSFER LEARNING FOR 3D MEDICAL IMAGE ANALYSIS As encoder to get fearures from CT and MR data 
